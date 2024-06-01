@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Triple S Caulking</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Triple S Caulking</h1>
+    </header>
+    <main>
+        <h2>About Us</h2>
+        <p>Welcome to Triple S Caulking, your trusted partner for all your caulking needs. With years of experience in the industry, we specialize in providing high-quality, durable, and cost-effective caulking solutions. Our services range from residential caulking for windows, doors, and bathrooms, to commercial caulking for large-scale construction projects. At Triple S Caulking, we believe in delivering excellence and precision in every project we undertake. Our team of skilled professionals is committed to ensuring customer satisfaction by offering personalized service tailored to meet your specific requirements. Choose Triple S Caulking for a seamless and worry-free caulking experience.</p>
+        
+        <h2>Services</h2>
+        <ul>
+            <li>Residential Caulking</li>
+            <li>Commercial Caulking</li>
+            <li>Window and Door Caulking</li>
+            <li>Bathroom Caulking</li>
+            <li>Kitchen Caulking</li>
+            <li>Exterior Caulking</li>
+            <li>Interior Caulking</li>
+            <li>Waterproofing Services</li>
+            <li>Caulk Removal and Replacement</li>
+            <li>Sealant Application</li>
+        </ul>
+        
+        <h2>Contact Us</h2>
+        <p>You can reach us at 437-218-1220</p>
+    </main>
+</body>
+</html>
